@@ -1,0 +1,20 @@
+{
+  "server": {
+    "mfpUrl": "http://127.0.0.1:9080",
+    "serverName": "MobileFoundation",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "reactnative",
+  "platforms": [
+    "ios"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "/Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/resources/icon.png",
+  "projectName": "ReactClean",
+  "projectVersion": "1.0",
+  "projectBundleId": "com.aish",
+  "isAnalyticsEnabled": true,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code"
+}

@@ -1,0 +1,1333 @@
+Project created on Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:08 GMT+0530 (India Standard Time) | Initialized all the DB's
+ Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:53 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:53 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:56 GMT+0530 (India Standard Time) | ✔ Downloading template
+- Copying template
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:56 GMT+0530 (India Standard Time) | ✔ Copying template
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:56 GMT+0530 (India Standard Time) | - Processing template
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:56 GMT+0530 (India Standard Time) | ✔ Processing template
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:20:56 GMT+0530 (India Standard Time) | - Installing dependencies
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:21:55 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:28 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:270855)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:28 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean" && npx react-native run-ios
+    - or -
+    • Open ReactClean/ios/ReactClean.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean" && npx react-native run-android
+
+
+ Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:38 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:38 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+ Error | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:38 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:1:276568)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)Success | CreatingAppActions | createNewAppOnServer | Fri May 08 2020, 11:22:38 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Fri May 08 2020, 11:22:38 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:39 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:43 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Fri May 08 2020, 11:22:43 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:17 GMT+0530 (India Standard Time) | info Found Xcode workspace "ReactClean.xcworkspace"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:17 GMT+0530 (India Standard Time) | info Launching iPhone 11 (iOS 13.3)
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:23 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace ReactClean.xcworkspace -configuration Debug -scheme ReactClean -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:27 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:27 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:28 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:29 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:30 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:30 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:30 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:31 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | ..............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:35 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:38 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:38 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:38 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:39 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:39 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:40 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:41 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:42 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:42 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:43 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:43 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:43 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:44 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:44 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:45 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:46 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:46 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:46 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | ..............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:48 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:49 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:51 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:51 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | ................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:53 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:54 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:54 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:55 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:55 GMT+0530 (India Standard Time) | .............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:57 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:57 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:58 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:59 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:59 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:59 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:59 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:25:59 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:00 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:00 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:00 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:02 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:04 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:04 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:04 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:04 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:05 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:07 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:07 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:07 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:08 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:09 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:10 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .........................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ............................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..................................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ......................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:11 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .........................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..............................................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .......................
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ............
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:12 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:13 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:14 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:15 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:17 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:17 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:18 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:19 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:19 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:19 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:19 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:19 GMT+0530 (India Standard Time) | .......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:21 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ...
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ..........
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:22 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:23 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:25 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/ReactClean-bcndbfmedgfimihgasrwtuvfjvyk/Build/Products/Debug-iphonesimulator/ReactClean.app"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:27 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:26:28 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Fri May 08 2020, 11:26:29 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:27:28 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:37 GMT+0530 (India Standard Time) | info Found Xcode workspace "ReactClean.xcworkspace"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:37 GMT+0530 (India Standard Time) | info Building (using "xcodebuild -workspace ReactClean.xcworkspace -configuration Debug -scheme ReactClean -destination id=EFA18E02-149B-4F19-A5E2-87F976B78872")
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:39 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | ....
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | ......
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | ..
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | .
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:40 GMT+0530 (India Standard Time) | 
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:42 GMT+0530 (India Standard Time) | info Installing "/Users/aishwaryadodmani/Library/Developer/Xcode/DerivedData/ReactClean-bcndbfmedgfimihgasrwtuvfjvyk/Build/Products/Debug-iphonesimulator/ReactClean.app"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:42 GMT+0530 (India Standard Time) | info Launching "com.aish"
+
+ Info | IonicTopBar | runApp | Fri May 08 2020, 11:27:43 GMT+0530 (India Standard Time) | success Successfully launched the app on the simulator
+
+Success | IonicTopBar | runApp | Fri May 08 2020, 11:27:43 GMT+0530 (India Standard Time) | Check out your App on simulator
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:28:00 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:28:12 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:28:21 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:28:29 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:28:55 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:44 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:44 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:45 GMT+0530 (India Standard Time) | + react-native-linear-gradient@2.5.6
+added 1 package from 5 contributors and audited 950100 packages in 24.629s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:45 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:45 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:47 GMT+0530 (India Standard Time) | Detected React Native module pods for BVLinearGradient, RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:52 GMT+0530 (India Standard Time) | Downloading dependencies
+Installing BVLinearGradient (2.5.6)
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:29:52 GMT+0530 (India Standard Time) | react-native-linear-gradient installed
+ Error | ReactPluginUtils | writePod | Fri May 08 2020, 11:29:52 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:6020)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:29:53 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:29:57 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:30:18 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:41 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:41 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:41 GMT+0530 (India Standard Time) | + react-native-linear-gradient@2.5.6
+updated 1 package and audited 950100 packages in 25.205s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:41 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:42 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:43 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:47 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:31:47 GMT+0530 (India Standard Time) | react-native-linear-gradient installed
+ Error | ReactPluginUtils | writePod | Fri May 08 2020, 11:31:47 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:6020)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:31:49 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:31:53 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:32:11 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:10 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:10 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:12 GMT+0530 (India Standard Time) | + react-native-linear-gradient@2.5.6
+updated 1 package and audited 950100 packages in 23.967s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:12 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:12 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:14 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:18 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:18 GMT+0530 (India Standard Time) | react-native-linear-gradient installed
+ Error | ReactPluginUtils | writePod | Fri May 08 2020, 11:34:18 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:6020)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:34:19 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:34:23 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 35 dependencies from the Podfile and 34 total pods installed.
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:32 GMT+0530 (India Standard Time) | npm 
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:32 GMT+0530 (India Standard Time) | WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:32 GMT+0530 (India Standard Time) | + react-native-svg@11.0.1
+added 13 packages from 40 contributors and audited 950114 packages in 32.397s
+found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:32 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:35 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:39 GMT+0530 (India Standard Time) | Downloading dependencies
+Installing RNSVG (11.0.1)
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:34:39 GMT+0530 (India Standard Time) | react-native-svg installed
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:35:02 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:35:02 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:35:12 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:35:21 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:35:35 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:14 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:15 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:15 GMT+0530 (India Standard Time) | + react-native-svg@11.0.1
+updated 1 package and audited 950114 packages in 25.322s
+found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:15 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:17 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:21 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:21 GMT+0530 (India Standard Time) | react-native-svg installed
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:27 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:28 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:28 GMT+0530 (India Standard Time) | + react-native-svg@11.0.1
+updated 1 package and audited 950114 packages in 21.308s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:28 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:28 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:30 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:34 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:36:34 GMT+0530 (India Standard Time) | react-native-svg installed
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:37:54 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:38:04 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:07 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:07 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:07 GMT+0530 (India Standard Time) | + react-native-linear-gradient@2.5.6
+updated 1 package and audited 950114 packages in 15.936s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:07 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:08 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:10 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:16 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:16 GMT+0530 (India Standard Time) | react-native-linear-gradient installed
+ Error | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:16 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:6020)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:18 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:22 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:23 GMT+0530 (India Standard Time) | npm WARN @react-native-community/eslint-config@0.0.5 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:23 GMT+0530 (India Standard Time) | npm WARN @react-navigation/bottom-tabs@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/drawer@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-safe-area-context@^0.6.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @react-navigation/stack@5.0.0 requires a peer of react-native-screens@^2.0.0-alpha.33 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/eslint-plugin@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/experimental-utils@1.13.0 requires a peer of eslint@* but none is installed. You must install peer dependencies yourself.
+npm WARN @typescript-eslint/parser@1.13.0 requires a peer of eslint@^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN babel-eslint@10.0.1 requires a peer of eslint@>= 4.12.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-eslint-comments@3.1.2 requires a peer of eslint@>=4.19.1 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-flowtype@2.50.3 requires a peer of eslint@>=2.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-jest@22.4.1 requires a peer of eslint@>=5 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react@7.12.4 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-hooks@1.7.0 requires a peer of eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-plugin-react-native@3.6.0 requires a peer of eslint@^3.17.0 || ^4 || ^5 but none is installed. You must install peer dependencies yourself.
+npm WARN react-native@0.61.4 requires a peer of react@16.9.0 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:23 GMT+0530 (India Standard Time) | + react-native-linear-gradient@2.5.6
+updated 1 package and audited 950114 packages in 22.335s
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:23 GMT+0530 (India Standard Time) | found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Error | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:23 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:12980)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:25 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:29 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+Success | ReactPluginUtils | installPlugin | Fri May 08 2020, 11:39:29 GMT+0530 (India Standard Time) | react-native-linear-gradient installed
+ Error | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:29 GMT+0530 (India Standard Time) |     [33mWARNING: CocoaPods requires your terminal to be using UTF-8 encoding.
+    Consider adding the following to ~/.profile:
+
+    export LANG=en_US.UTF-8
+    [0m
+
+Error
+    at file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174537
+    at f (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:173863)
+    at Object.error (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:5915:174419)
+    at Socket.<anonymous> (file:///private/var/folders/hd/6_mtptyd3471dzlsmbsz50nr0000gn/T/AppTranslocation/3001F3D4-6FAF-4855-BE71-D8D6B9546D45/d/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:433:6020)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:31 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNSVG, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | ReactPluginUtils | writePod | Fri May 08 2020, 11:39:35 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 36 dependencies from the Podfile and 35 total pods installed.
+
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:41:33 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:41:42 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:41:49 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:41:55 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:42:06 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:42:26 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:42:39 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:44:20 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:44:21 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
+ Info | BuilderEditor | saveFile | Fri May 08 2020, 11:45:17 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/ReactClean/reactnative/ReactClean/src/AppNavigator.js
