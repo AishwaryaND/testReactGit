@@ -26,7 +26,7 @@ const Tabs = createBottomTabNavigator();
 
 const AppNavigator = () => (
   <NavigationContainer>
-    <Stack.Navigator initialRouteName="Home">
+    <Stack.Navigator initialRouteName="EmptyMaster">
       <Stack.Screen name="Home" component={ENO} />
     </Stack.Navigator>
   </NavigationContainer>
